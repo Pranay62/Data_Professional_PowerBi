@@ -2,7 +2,7 @@
 
 This is a Power BI project that analyzes the results of a survey conducted among data professionals 
 to gain insights into their job roles, salaries, experience, and other factors. 
-The data used in this project is hypothetical and generated for the purpose of demonstration.
+The data used by survey from professional .
 
 **Getting Started**
 
